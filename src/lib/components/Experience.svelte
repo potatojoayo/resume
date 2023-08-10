@@ -20,13 +20,14 @@
     </p>
 
     <div class="rounded bg-gray-100 p-4 mt-4">
-        <div class="flex justify-between">
+        <div class="flex sm:justify-between sm:flex-row flex-col">
             <a href="/wooridong-rep">
                 <h2 class="text-lg cursor-pointer w-fit underline underline-offset-4">
                     Wooridong Rep (01/2022 - 04/2022)
                 </h2>
             </a>
-            <a href="https://github.com/potatojoayo/wooridong_rep_server" class="flex space-x-1 items-center"
+            <a href="https://github.com/potatojoayo/wooridong_rep_server"
+               class="flex space-x-1 items-center mt-2 sm:mt-0"
                target="_blank">
                 <img src={Github} alt="github" class="w-4">
                 <div>github</div>
@@ -56,14 +57,14 @@
     </div>
 
     <div class="rounded bg-gray-100 p-4 mt-4">
-        <div class="flex justify-between">
+        <div class="flex sm:justify-between sm:flex-row flex-col">
             <a href="/smarter">
                 <h2 class="text-lg cursor-pointer w-fit underline underline-offset-4">
                     Smarter Plus (05/2022 - 02/2023)
                 </h2>
             </a>
 
-            <a href="https://github.com/potatojoayo/smarter_server" class="flex space-x-1 items-center"
+            <a href="https://github.com/potatojoayo/smarter_server" class="flex space-x-1 items-center mt-2 sm:mt-0"
                target="_blank">
                 <img src={Github} alt="github" class="w-4">
                 <div>github</div>
