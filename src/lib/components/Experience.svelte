@@ -57,11 +57,11 @@
 
     <div class="rounded bg-gray-100 p-4 mt-4">
         <div class="flex justify-between">
-            <Link>
-                <h2 class="text-lg cursor-pointer w-fit">
+            <a href="/smarter">
+                <h2 class="text-lg cursor-pointer w-fit underline underline-offset-4">
                     Smarter Plus (05/2022 - 02/2023)
                 </h2>
-            </Link>
+            </a>
 
             <a href="https://github.com/potatojoayo/smarter_server" class="flex space-x-1 items-center"
                target="_blank">
@@ -95,11 +95,9 @@
     </div>
 
     <div class="rounded bg-gray-100 p-4 mt-4">
-        <Link>
-            <h2 class="text-lg cursor-pointer w-fit">
-                Fix Please (03/2023 - 04/2023)
-            </h2>
-        </Link>
+        <h2 class="text-lg cursor-pointer w-fit">
+            Fix Please (03/2023 - 04/2023)
+        </h2>
         <div class="mt-1 text-gray-800">Home fix service platform</div>
         <ul class="mt-2 list-disc pl-6">
             <li>Built
@@ -111,11 +109,9 @@
     </div>
 
     <div class="rounded bg-gray-100 p-4 mt-4">
-        <Link>
-            <h2 class="text-lg cursor-pointer w-fit">
-                Smarter Plus update (05/2023 - 08/2023)
-            </h2>
-        </Link>
+        <h2 class="text-lg cursor-pointer w-fit">
+            Smarter Plus update (05/2023 - 08/2023)
+        </h2>
         <div class="mt-1 text-gray-800">Advanced e-commerce service</div>
         <ul class="mt-2 list-disc pl-6">
             <li>Added more features to mobile app</li>

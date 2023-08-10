@@ -18,5 +18,5 @@ server {
    } 
    server_name api.wooridong-rep.net;
    listen 80;
-   return 404; # managed by Certbot
+   return 404; 
 } `;
